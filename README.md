@@ -14,7 +14,6 @@ Projenin amacı bir AVM’deki asansörlere gelen isteklerdeki yoğunluğu, mult
 • Asansörlerin biri sürekli çalışmaktadır. Geriye kalanlar, yoğunluk durumuna göre aktif veya pasif durumdadır.
 
 • Asansörlerin maksimum kapasitesi 10’dur.
-Proje bileşenlerinin özellikleri:
 
 ## ASANSÖRLERDEKİ TALEP YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ
 
