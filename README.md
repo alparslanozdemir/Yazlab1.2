@@ -16,7 +16,7 @@ Projenin amacı bir AVM’deki asansörlere gelen isteklerdeki yoğunluğu, mult
 • Asansörlerin maksimum kapasitesi 10’dur.
 Proje bileşenlerinin özellikleri:
 
-ASANSÖRLERDEKİ TALEP YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ
+## ASANSÖRLERDEKİ TALEP YOĞUNLUĞUNUN MULTITHREAD İLE KONTROLÜ
 
 1) AVM Giriş (Login) Thread: 500 ms zaman aralıklarıyla [1-10] arasında rastgele sayıda müşterinin AVM’ye giriş yapmasını sağlamaktadır (Zemin Kat). Giren müşterileri rastgele bir kata (1-4) gitmek için asansör kuyruğuna alır.
 
